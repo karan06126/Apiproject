@@ -1,0 +1,1 @@
+{"version":3,"file":"sendRouter.js","sourceRoot":"","sources":["../../src/routers/sendRouter.ts"],"names":[],"mappings":";;;;;AAAA,qCAA0C;AAC1C,aAAa;AACb,mFAA2D;AAE3D,MAAM,MAAM,GAAG,gBAAM,EAAE,CAAC;AACxB,MAAM,cAAc,GAAG,IAAI,wBAAc,EAAE,CAAC;AAE5C,MAAM,CAAC,GAAG,CAAC,GAAG,EAAE,cAAc,CAAC,GAAG,CAAC,CAAC;AAEpC,kBAAe,MAAM,CAAC"}
